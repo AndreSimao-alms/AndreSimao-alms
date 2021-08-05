@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o André Simão
-- 🌱 Membro da pasta de eletrônica do projeto de extensão BAJA UFSCa, desenvolvo projeto com arduino no ramo automobilístico. 
+- 🌱 Membro da pasta de eletrônica do projeto de extensão BAJA UFSCar, desenvolvo projeto com arduino no ramo automobilístico. 
 - 👀 Estou graduando o curso de Química pela UFSCar, penso fortemente em me especializar em aplicações quimiométricas. 
 - 🌱 Atualmente, estudando sobre data science com R e Python
 - 💞️ Procuro desenvolver e/ou contribuir com projetos envolvendo data science.
